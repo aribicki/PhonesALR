@@ -8,7 +8,7 @@ public class PhoneDriver {
     public static void main(String[] args) {
     
     one = new Phone("Name", "LG");
-    two = new Phone("HowMany", 3);
+    two = new Phone("ModelNumber", 3568);
     three = new Phone("Mystery");
     System.out.println(one.toString());
     System.out.println(two.toString());
